@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+}
+header{
+    background: darkseagreen;
+    border-bottom: double darkolivegreen;
+    margin-top: -16px;
+    padding: 10px 0px 0px 0px;
+}
+.menu{
+    display: inline-flex;
+}
+.item-menu{
+    padding: 0px 30px 0px 0px;
+    display:block;
+}
+.img-limite{
+    max-width:800px;
+    max-height:600px;
+}
